@@ -1,0 +1,17 @@
+# Замечательный учебник Питона
+https://pythonworld.ru/
+
+# Курсы от Майкрософт на околокосмическую тематику
+https://learn.microsoft.com/ru-ru/training/paths/introduction-python-space-exploration-nasa/
+
+# Шпаргалка по ОпенЦВ
+https://tproger.ru/translations/opencv-python-guide/ 
+
+# Видеоуроки
+# Введение и первые шаги
+https://www.youtube.com/watch?v=nn8jBg0jFQk
+# распознавание цветных объектов
+https://www.youtube.com/watch?v=KZrBmayi-Kc
+
+# Мегапрошаренные уроки, распознавание дорожных знаков, простых объектов, пешеходов, светофоров
+https://avt.global/cv
